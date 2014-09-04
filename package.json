@@ -1,0 +1,23 @@
+{
+  "name": "NodeModules",
+  "version": "0.0.4",
+  "description": "Node Modules to install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LostAngles-/NodeModules.git"
+  },
+  "keywords": [
+    "Node",
+    "Modules"
+  ],
+  "author": "LeeT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LostAngles-/Node_Modules/issues"
+  },
+  "homepage": "https://github.com/LostAngles-/Node_Modules"
+}
